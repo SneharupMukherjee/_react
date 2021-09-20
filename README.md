@@ -1,3 +1,3 @@
-##### Basics of
+#### Basics of
 
 # React
