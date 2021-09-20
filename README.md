@@ -6,7 +6,7 @@ This repository contains starter projects using React, all projects are primaril
 
 <!-- ------------------------------------------------------ -->
 * Project Structure
-
+```
 -| project directory | 
     -| node_modules |
     -| public |
@@ -18,7 +18,7 @@ This repository contains starter projects using React, all projects are primaril
             -| Footer.js |
     -| package-lock.json |
     -| package.json |
-
+```
 <!-- ------------------------------------------------------ -->
 
 # Components
